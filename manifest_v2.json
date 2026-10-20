@@ -1,0 +1,79 @@
+{
+  "item": {
+    "id": "com.sixone.beings",
+    "restype": "quick_app",
+    "name": "众生",
+    "description": "模拟打工赚钱\n体验生活的艰辛和奋斗的意义",
+    "preview": [
+      "media/众生@2x.png"
+    ],
+    "icon": "media/logo@1x.png",
+    "cover": "media/众生@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "众生密钥购买链接",
+      "url": "https://afdian.com/item/f9ad4e66781711efa24652540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmrw5xring": {
+      "version": "2.5.1",
+      "file_name": "downloads/RW5-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmrw5": {
+      "version": "2.5.1",
+      "file_name": "downloads/RW5-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "2.5.1",
+      "file_name": "downloads/RW6-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "2.5.1",
+      "file_name": "downloads/环10-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "2.5.1",
+      "file_name": "downloads/环10-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "2.5.1",
+      "file_name": "downloads/环10P-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "2.5.1",
+      "file_name": "downloads/环11-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "2.5.1",
+      "file_name": "downloads/环11-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "2.5.1",
+      "file_name": "downloads/环9-众生-v2.5.1.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "2.5.1",
+      "file_name": "downloads/环9P-众生-v2.5.1.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
