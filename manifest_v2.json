@@ -5,7 +5,18 @@
     "name": "众生",
     "description": "模拟打工赚钱\n体验生活的艰辛和奋斗的意义",
     "preview": [
-      "media/众生@2x.png"
+      "media/众生@2x.png",
+      "media/主页@2x-3.png",
+      "media/主页@2x-4.png",
+      "media/打地鼠@2x.png",
+      "media/打工页@2x.png",
+      "media/购车页@2x.png",
+      "media/木鱼@2x.png",
+      "media/赛车@2x.png",
+      "media/挖矿@2x.png",
+      "media/主页@2x.png",
+      "media/主页@2x-5.png",
+      "media/主页@2x-2.png"
     ],
     "icon": "media/logo@1x.png",
     "cover": "media/众生@2x.png",
